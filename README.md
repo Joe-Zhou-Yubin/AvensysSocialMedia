@@ -1,6 +1,6 @@
 # Avensys Social Media Project
 Social Media project using React, Spring and Firestore Database and Firebase Storage
-
+[Presentation Deck](https://www.canva.com/design/DAFqjvZAhEU/7J0XWTAu3Q5Bi8rJV5s54g/view?utm_content=DAFqjvZAhEU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 ---
 
 ## Landing Page
