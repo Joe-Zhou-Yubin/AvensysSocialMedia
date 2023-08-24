@@ -1,7 +1,7 @@
 # Avensys Social Media Project
 <div>Social Media project using React, Spring and Firestore Database and Firebase Storage</div><br>
 <a href="https://www.canva.com/design/DAFqjvZAhEU/7J0XWTAu3Q5Bi8rJV5s54g/view?utm_content=DAFqjvZAhEU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">Presentation Deck</a><br>
-
+<a href="https://www.figma.com/file/YfYu1WUwFuruReAYNrA1xN/Social-Media?type=whiteboard&node-id=0%3A1&t=OeVvB83Eb0rawk6K-1" target="_blank">Figma Design</a>
 ---
 
 ## Landing Page
