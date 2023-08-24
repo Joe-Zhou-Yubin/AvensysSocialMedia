@@ -15,3 +15,8 @@ Social Media project using React, Spring and Firestore Database and Firebase Sto
 
 ## Sign up Page
 <img src="https://github.com/Joe-Zhou-Yubin/AvensysSocialMedia/raw/main/screenshots/Signup_Page.png" alt="Sign up Page Screenshot" width="600">
+
+---
+
+## Feed Page
+<img src="https://github.com/Joe-Zhou-Yubin/AvensysSocialMedia/raw/main/screenshots/Feed_Page.png" alt="Feed Page Screenshot" width="600">
