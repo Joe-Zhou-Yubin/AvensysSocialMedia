@@ -20,3 +20,23 @@ Social Media project using React, Spring and Firestore Database and Firebase Sto
 
 ## Feed Page
 <img src="https://github.com/Joe-Zhou-Yubin/AvensysSocialMedia/raw/main/screenshots/Feed_Page.png" alt="Feed Page Screenshot" width="600">
+
+---
+
+## Profile Page
+<img src="https://github.com/Joe-Zhou-Yubin/AvensysSocialMedia/raw/main/screenshots/Profile_Page.png" alt="Profile Page Screenshot" width="600">
+
+---
+
+## Create Page
+<img src="https://github.com/Joe-Zhou-Yubin/AvensysSocialMedia/raw/main/screenshots/Create_Page.png" alt="Create Page Screenshot" width="600">
+
+---
+
+## User Dashboard Page (Only Admin)
+<img src="https://github.com/Joe-Zhou-Yubin/AvensysSocialMedia/raw/main/screenshots/User_Dashboard.png" alt="User Dashboard Page Screenshot" width="600">
+
+---
+
+## Admin Feed Page (Only Admin)
+<img src="https://github.com/Joe-Zhou-Yubin/AvensysSocialMedia/raw/main/screenshots/Admin_Feed.png" alt="Admin Feed Page Screenshot" width="600">
